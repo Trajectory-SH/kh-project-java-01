@@ -28,3 +28,6 @@ Java 객체지향의 개념과 파일 입출력을 공부하기 위해 만든 �
 - 콘서트 목록 출력 및 에매 
 - 좌석 선택 좌석 선택시 Array로 구현한 User Interface 제공
 - 예매 완료
+
+#### 실행 영상
+[![Video Label](http://img.youtube.com/vi/J0O3uLjEI48/0.jpg)](https://youtu.be/J0O3uLjEI48)
